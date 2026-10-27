@@ -1,0 +1,5 @@
+data/online-retail.zip
+data/source-cache.pkl
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,27 @@
+{
+  "period": "2011-01-01 through 2011-11-30",
+  "catalog_sale_value_gbp": 8877678.99,
+  "catalog_orders": 17407,
+  "average_order_value_gbp": 510.01,
+  "catalog_units": 4904971,
+  "catalog_product_codes": 3709,
+  "known_customers": 4168,
+  "repeat_known_customers": 2609,
+  "repeat_known_customer_rate": 0.62596,
+  "unknown_customer_order_share": 0.067502,
+  "unknown_customer_sale_value_share": 0.13487,
+  "uk_sale_value_share": 0.841158,
+  "source_zip_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "quality": {
+    "source_lines": 541909,
+    "source_missing_customer_id_lines": 135080,
+    "source_missing_description_lines": 1454,
+    "period_lines": 473903,
+    "accepted_catalog_lines": 461385,
+    "positive_non_catalog_lines": 2128,
+    "cancelled_negative_lines": 8200,
+    "other_period_lines": 2190,
+    "accepted_missing_customer_id_lines": 108346,
+    "cancelled_negative_line_value_gbp": 616898.7
+  }
+}
